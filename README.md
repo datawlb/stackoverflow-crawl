@@ -11,4 +11,4 @@ crawl use python scrapy,it's very stronger!
 
 3.get the language rankings:
 	run the main_fuc.py,then you can get the result
-![result:](https://github.com/datawlb/stackoverflow-crawl/stackoverflow/rankResult.jpg)
+![result:](https://github.com/datawlb/stackoverflow-crawl/tree/master/stackoverflow/rankResult.jpg)
